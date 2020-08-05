@@ -11,7 +11,7 @@ Features:
 
 
 ## Running
-1. Run main
+1. Run `main`
 2. Choose a .txt file
 3. Follow the instructions to receive various information about the content of your file
 
